@@ -13,21 +13,19 @@ My main objective is to keep learning and sharpening my abilities as a full stac
 
 # Technologies
 - HTML
-- CSS
-- Javascript
+* CSS
++ Javascript
 - React
-- Redux
-- Node
+* Redux
++ Node
 - Express
-- PostgreSQL
-- Sequelize
+* PostgreSQL
++ Sequelize
 - GIT
 
 # Contact me
 Hopefully we can work together and change the world for the better. Don't hesistate to contact me
-[Click here](https://www.linkedin.com/in/david-del-toro-8aa143102/) to contact me on LinkedIn
-
-Or here is my email: **davison09.ddt@gmail.com**
+[Click here](https://www.linkedin.com/in/david-del-toro-8aa143102/) to contact me on LinkedIn or here is my email: **davison09.ddt@gmail.com**
 
 # Fun fact about me
 When I was no older than 14 I was a hardcore Pokemon fan, I wanted to create my own Pokemon videogame so I stumbled upon the ROM Hacking community. I started learning the basics but eventually ended up giving up that hobby. I do remember that some parts of the ROM hacking were similar to coding, so when I started diving into this world, I got this wholesome nostalgia feeling.
