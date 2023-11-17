@@ -12,20 +12,21 @@ Currently I am working on proyects that challenge me to improve as a developer. 
 My main objective is to keep learning and sharpening my abilities as a full stack developer. This is why I am always working on personal proyects that keep my passion alive, as well as my knowledge fresh. 
 
 # Technologies
--HTML
--CSS
--Javascript
--React
--Redux
--Node
--Express
--PostgreSQL
--Sequelize
--GIT
+- HTML
+- CSS
+- Javascript
+- React
+- Redux
+- Node
+- Express
+- PostgreSQL
+- Sequelize
+- GIT
 
 # Contact me
 Hopefully we can work together and change the world for the better. Don't hesistate to contact me
 [Click here](https://www.linkedin.com/in/david-del-toro-8aa143102/) to contact me on LinkedIn
+
 Or here is my email: **davison09.ddt@gmail.com**
 
 # Fun fact about me
