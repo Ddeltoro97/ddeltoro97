@@ -15,7 +15,7 @@ My main objective is to keep learning and sharpening my abilities as a full stac
 - HTML
 * CSS
 + Javascript
-+ Typescript
+* Typescript
 - React
 * Redux
 + Node
