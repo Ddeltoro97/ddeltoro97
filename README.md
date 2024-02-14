@@ -15,12 +15,12 @@ My main objective is to keep learning and sharpening my abilities as a full stac
 - HTML
 * CSS
 + Javascript
++ Typescript
 - React
 * Redux
 + Node
 - Express
 * PostgreSQL
-+ Sequelize
 - GIT
 
 # Contact me
